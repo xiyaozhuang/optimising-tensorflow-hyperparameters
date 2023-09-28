@@ -1,0 +1,2 @@
+optuna==3.3.0
+tensorflow==2.14.0
